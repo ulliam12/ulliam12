@@ -1,6 +1,6 @@
 - 👋 Ola sou @ulliam12.
 - 👀 Estou trapando com jogos 2D.
-- 🌱 Estudado C#...
+- 🌱 Estudado C# e Unity...
 - 📫 Contato: listadejogos@gmail.com
 <!---
 ulliam12/ulliam12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
